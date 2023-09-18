@@ -2,6 +2,10 @@
 
 ***
 
+#### Please visit this [`link`](https://github.com/muhamed-hassan/foundation_relational_dbms/wiki/Jokes-section) for jokes 🤣 around this kind of academic course
+
+***
+
 **`Difficulty Level`**: [Research and development center 🌏 🌎 🌍](https://en.wikipedia.org/wiki/Research_and_development) that belongs to a [university](https://en.wikipedia.org/wiki/University).
 
 ***
