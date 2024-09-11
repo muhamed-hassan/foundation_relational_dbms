@@ -11,16 +11,4 @@
 ***
 ***
 
-![relative_0c940001316559bded819cdbb02ad674dbdeb3057aa001c3c11d7b294a4d308c-e1642520737713](https://user-images.githubusercontent.com/17825804/219598520-d507d4f8-671b-488b-b762-436089cc069f.png)
-
-***
-
-![Data_center6](https://user-images.githubusercontent.com/17825804/219598631-5c389974-1caf-4bc8-8f8f-5a374abd1fe5.jpg)
-
-***
-
-![blog-enable-big-data-analytics-og](https://user-images.githubusercontent.com/17825804/219598730-31079082-67b2-4164-98e7-2fb9e472dd5c.jpg)
-
-***
-
-![asset-v1_BDU+DB0101EN+v1+type@asset+block@course_card](https://user-images.githubusercontent.com/17825804/219598804-5e5d48cd-4377-40ca-9747-4b4df414959d.png)
+![313656cee0aa48faa5bfb28b5bd1641a](https://github.com/user-attachments/assets/b5306dc3-2f63-4a6d-b3cc-59e58cfd9c16)
