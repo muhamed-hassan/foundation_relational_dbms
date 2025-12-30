@@ -1,4 +1,4 @@
-#### Please visit the [wiki](https://github.com/muhamed-hassan/relational_dbms/wiki) for more info
+#### Please visit the [wiki](https://github.com/muhamed-hassan/relational_dbms_foundation/wiki) for more info
 
 ***
 
