@@ -1,8 +1,8 @@
-#### Please visit the [wiki](https://github.com/muhamed-hassan/foundation_relational_dbms/wiki) for more info
+#### Please visit the [wiki](https://github.com/muhamed-hassan/relational_dbms/wiki) for more info
 
 ***
 
-#### Please visit this [`link`](https://github.com/muhamed-hassan/foundation_relational_dbms/wiki/Jokes-section) for jokes 🤣 around this kind of academic course
+#### Please visit this [`link`](https://github.com/muhamed-hassan/relational_dbms_foundation/wiki/Jokes-section) for jokes 🤣
 
 ***
 
